@@ -42,59 +42,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[AlsoEnergy / PowerTrack](https://www.alsoenergy.com/)**  
-
-  Leading solar asset monitoring and management platform for commercial and utility-scale portfolios, with multi-vendor data aggregation, performance analytics, and O&M support.
-
-
-
-- **[Power Factors](https://www.powerfactors.com/)**  
-
-  Enterprise asset performance management platform (including Drive / former Greenbyte) for large renewable portfolios, offering monitoring, analytics, and reporting across technologies.
-
-
-
-- **[Solar-Log](https://www.solar-log.com/)**  
-
-  Established PV monitoring and energy management platform used for residential to commercial installations with multi-inverter support.
-
-
-
-- **[Raptor Maps](https://raptormaps.com/)**  
-
-  AI-powered aerial inspection and solar asset analytics platform that turns drone/thermal imagery into actionable module- and equipment-level insights.
-
-
-
-- **[Aurora Solar](https://www.aurorasolar.com/)**  
-
-  Solar design, sales, and performance platform widely used for residential and commercial project design, shading analysis, and proposals.
-
-
-
-- **[HelioScope, Scanifly, PVcase, RatedPower](https://www.helioscope.com/)**  
-
-  Design and engineering tools for PV system layout, bankable yield modeling, drone-based site assessment, and utility-scale design.
-
-
-
-- **[Deck, Unity Monitoring, DroneDeploy Solar, HelioVolta, SolarNexus](https://www.deck.co/)**  
-
-  Additional platforms covering monitoring, construction, O&M workflows, aerial data, and project lifecycle management.
-
-
-
-- **[Solargis and resource platforms](https://solargis.com/)**  
-
-  Solar resource data, irradiance, and bankable climate services that support design and performance assessment.
-
-
-
-- **[Other solar APM & monitoring platforms](https://www.alsoenergy.com/)**  
-
-  OEM portals, multi-vendor aggregators, and specialized O&M or inspection tools used across the solar industry.
+| Platform | Description | Starting Tier Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[AlsoEnergy / PowerTrack](https://www.alsoenergy.com/)** | Solar asset monitoring and management platform for commercial and utility-scale portfolios, with multi-vendor data aggregation and O&M support. | Starts at $500/site/year (hardware logger bundle tier) | No free tier or trial; guided live demo on request |
+| **[Power Factors](https://www.powerfactors.com/)** | Enterprise asset performance management platform (Drive / former Greenbyte) for multi-GW solar and wind portfolios. | Starts at $30/user/month (basic user tier entry) | No free tier or trial; personalized sales demo on request |
+| **[Solar-Log](https://www.solar-log.com/)** | PV monitoring and energy management platform used for residential to commercial installations with multi-inverter support. | Starts at €20/year (WEB Enerest M package) | Free forever tier for systems up to 3 kWp; 30-day free trial for premium packages |
+| **[Raptor Maps](https://raptormaps.com/)** | AI-powered aerial inspection and solar asset analytics platform that turns drone/thermal imagery into module-level insights. | Starts at $300/map (inspection mission starting rate) | No free tier or trial; live interactive demo on request |
+| **[Aurora Solar](https://www.aurorasolar.com/)** | Solar design, sales, and performance platform widely used for residential and commercial project design, 3D shading analysis, and proposals. | Starts at $159/user/month (Foundation plan) | No free tier or trial; live product demo available on request |
+| **[HelioScope](https://www.helioscope.com/)** | Web-based PV layout design, shading, and bankable energy yield modeling software for commercial and utility solar. | Starts at $159/license/month (Basic plan, up to 10 projects/month & 1.25 MW DC capacity) | 30-day free trial (up to 5 projects with full feature access) |
+| **[Scanifly](https://scanifly.com/)** | Drone-based 3D photogrammetry and site assessment tool for PV shading analysis and layout design. | Starts at $150/user/month (base subscription tier) | No free trial or free tier; 1-project paid demo flight available |
+| **[PVcase](https://pvcase.com/)** | Utility-scale and commercial PV design automation plugin for AutoCAD / Civil 3D. | Starts at $10,000/year (plus ~$2,000/year AutoCAD license requirement) | 14-day free trial (requires active AutoCAD installation and demo approval) |
+| **[RatedPower](https://ratedpower.com/)** | Cloud software for utility-scale solar plant engineering and automated layout optimization. | Starts at $15,000/year (Basic enterprise plan with unlimited projects) | No free trial or free tier; 1-on-1 sales demo available on request |
+| **[Deck Monitoring](https://www.deck.co/)** | Solar PV data acquisition hardware and monitoring software for commercial and industrial installations. | Starts at $500/site (includes hardware logger + 5-year monitoring license package) | No free tier or trial; hardware installation demonstration on request |
+| **[Unity Monitoring](https://powerfactors.com/solutions/unity/)** | SCADA, power plant controller (PPC), and real-time monitoring suite for utility-scale PV assets. | Starts at $15,000/site/year (utility SCADA and monitoring package) | No free tier or trial; live SCADA environment demo available on request |
+| **[DroneDeploy Solar](https://www.dronedeploy.com/)** | Drone mapping, thermal inspection, and 360-degree construction progress tracking platform. | Starts at $329/month (or $4,188/year for Individual plan) | 14-day free trial with full drone mapping and 360 ground capture (no credit card required) |
+| **[HelioVolta / SolarGrade](https://solargrade.io/)** | Fieldwork, inspection, and O&M work-order management software for solar PV assets. | Starts at $39/user/month (Pro plan) | 14-day free trial with full mobile app and workflow access |
+| **[SolarNexus](https://www.solarnexus.com/)** | Solar CRM, project management, and sales quoting workflow software for installers and developers. | Starts at $49/user/month (Solo base platform tier) | 14-day free trial available upon request |
+| **[Solargis](https://solargis.com/)** | Solar resource data, irradiance, satellite climate data, and bankable PV yield simulation services. | Starts at €4,800/year (Solargis Prospect base subscription) | Free forever tier for 1 MWp system simulation & free global solar maps; no trial for full suite |
 
 
 
